@@ -7,7 +7,7 @@ The main goal was to get some insides about when and which music do I listen.
 
 ## Charts
 ### Artist 
-![Artist Chart](figs/artist-chart.png)
+[![Artist Chart](figs/artist-chart.png)](https://data-viz.vercel.app/artist-chart.html)
 
 Interactive version https://data-viz.vercel.app/artist-chart.html
 
@@ -18,12 +18,12 @@ There are several insides wich could be concluded:
 
 ### Album
 
-![Album Chart](figs/album-chart.png)
+[![Album Chart](figs/album-chart.png)](https://data-viz.vercel.app/album-chart.html)
 
 Interactive version https://data-viz.vercel.app/album-chart.html
 
 ### Genre
-![Genre Chart](figs/genre-chart.png)
+[![Genre Chart](figs/genre-chart.png)](https://data-viz.vercel.app/genre-chart.html)
 
 Interactive version https://data-viz.vercel.app/genre-chart.html
 
