@@ -9,7 +9,7 @@ The main goal was to get some insides about when and which music do I listen.
 ### Artist 
 ![Artist Chart](figs/artist-chart.png)
 
-Interactive version **instert vercel link**
+Interactive version https://data-viz.vercel.app/artist-chart.html
 
 The idea was to show how to changes the band I was listened during a time and how many times it was listened.
 There are several insides wich could be concluded:
@@ -20,12 +20,12 @@ There are several insides wich could be concluded:
 
 ![Album Chart](figs/album-chart.png)
 
-Interactive version **instert vercel link**
+Interactive version https://data-viz.vercel.app/album-chart.html
 
 ### Genre
 ![Genre Chart](figs/genre-chart.png)
 
-Interactive version **instert vercel link**
+Interactive version https://data-viz.vercel.app/genre-chart.html
 
 
 ## Resources
